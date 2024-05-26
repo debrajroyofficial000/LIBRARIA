@@ -13,6 +13,7 @@ LIBRARIA is a comprehensive library management system designed to streamline the
     - [For Librarians:](#for-librarians)
     - [For Users:](#for-users)
   - [Technologies Used](#technologies-used)
+  - [Demo](#demo)
 
 ## Features
 
@@ -26,14 +27,29 @@ LIBRARIA is a comprehensive library management system designed to streamline the
 
 ## Screenshots
 
-![Home Page](path_to_screenshot1)
-_Caption: Home Page of LIBRARIA_
+![User Sign In Page](./public/assets/ss1.png)
+_Caption: User SignIn Page_
 
-![Issue Book](path_to_screenshot2)
-_Caption: Book Issue Interface_
+![User Home Page](./public/assets/ss2.png)
+_Caption: User Home Page_
 
-![Manage Users](path_to_screenshot3)
-_Caption: User Management by Librarians_
+![User Books Page](./public/assets/ss3.png)
+_Caption: User Books Page_
+
+![Admin Sign In Page](./public/assets/ss5.png)
+_Caption: Admin SignIn Page_
+
+![Admin Home Page](./public/assets/ss6.png)
+_Caption: Admin Home Page_
+
+![Admin Add New User Page](./public/assets/ss7.png)
+_Caption: Admin Add New User Page_
+
+![Admin Add New Book Page](./public/assets/ss9.png)
+_Caption: Admin Add New Book Page_
+
+![Admin Add New Book Issue Page](./public/assets/ss10.png)
+_Caption: Admin Add New Book Issue Page_
 
 ## Installation
 
@@ -89,3 +105,7 @@ To get started with LIBRARIA, follow these steps:
 - **Routing**: React Router
 
 Thank you for using LIBRARIA! We hope it helps in managing your library efficiently.
+
+## Demo
+
+[Web Demo](https://66515062015cdfb19f90091d--react-libraria.netlify.app/)
