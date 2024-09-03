@@ -13,7 +13,6 @@ LIBRARIA is a comprehensive library management system designed to streamline the
     - [For Librarians:](#for-librarians)
     - [For Users:](#for-users)
   - [Technologies Used](#technologies-used)
-  - [Demo](#demo)
 
 ## Features
 
@@ -105,7 +104,3 @@ To get started with LIBRARIA, follow these steps:
 - **Routing**: React Router
 
 Thank you for using LIBRARIA! We hope it helps in managing your library efficiently.
-
-## Demo
-
-[Web Demo](https://66515062015cdfb19f90091d--react-libraria.netlify.app/)
